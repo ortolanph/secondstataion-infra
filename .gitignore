@@ -1,0 +1,8 @@
+## Terraform generated files
+.terraform
+
+## Secrets
+secret.auto.tfvars
+
+## IDE Files
+.idea
